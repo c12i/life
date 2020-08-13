@@ -31,5 +31,5 @@ wasm-pack build
 ## Run tests
 
 ```sh
-cargo test
+wasm-pack test --chrome --headless
 ```
