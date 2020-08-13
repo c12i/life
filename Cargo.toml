@@ -1,5 +1,5 @@
 [package]
-name = "hello-wasm"
+name = "das-spiel-des-lebens"
 version = "0.1.0"
 authors = ["Collins Muriuki <murerwacollins@gmail.com>"]
 edition = "2018"

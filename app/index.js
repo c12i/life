@@ -2,7 +2,7 @@ import { Universe, Cell } from "hello-wasm";
 import { memory } from "hello-wasm/hello_wasm_bg";
 
 // constants
-const CELL_SIZE = 8; // px
+const CELL_SIZE = 7; // px
 const GRID_COLOR = "#CCCCCC";
 const DEAD_COLOR = "#FFFFFF";
 const ALIVE_COLOR = "#000000";
