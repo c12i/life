@@ -2,12 +2,10 @@ import { Universe, Cell } from "hello-wasm";
 import { memory } from "hello-wasm/hello_wasm_bg";
 
 // constants
-const CELL_SIZE = 5; // px
+const CELL_SIZE = 8; // px
 const GRID_COLOR = "#CCCCCC";
 const DEAD_COLOR = "#FFFFFF";
 const ALIVE_COLOR = "#000000";
-
-const pre = document.getElementById("game-of-life-canvas");
 
 // Construct the universe, and get its width and height.
 const universe = Universe.new();
