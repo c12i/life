@@ -1,7 +1,7 @@
 <h1 align="center">life</h1>
 <p>
-  <a href="https://www.npmjs.com/package/hello-wasm" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/hello-wasm.svg">
+  <a href="https://www.npmjs.com/package/das-spiel-des-lebens" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/das-spiel-des-lebens.svg">
   </a>
 </p>
 
